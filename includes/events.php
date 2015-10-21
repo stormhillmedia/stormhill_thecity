@@ -29,7 +29,7 @@ function shcaa_list_events($eventtag='',$groupname=''){
 		$args = array();
 		//$args['group_types'] = 'Hope';
 		//$args['include_addresses'] = 'true';
-		$the_city = new TheCity('hitc');
+		$the_city = new TheCity('theCityUsername');
 		if(isset($groupname) && !empty($groupname) ){
 			$the_city->set_group_nickname($groupname); 
 		}

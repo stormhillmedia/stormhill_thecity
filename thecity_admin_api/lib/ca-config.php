@@ -10,11 +10,11 @@
  *
  */
 if(!defined('APIKEY')) {
-  define("APIKEY","1aaa1397f2bb4f9e4790d69d380499b9b2ec1fdf");             // The City API key to use by default
+  define("APIKEY","yourkeygoeshere");             // The City API key to use by default
 }
 
 if(!defined('USERTOKEN')) {
-  define("USERTOKEN", "56a46f35b02b5591");           // The City API user token by default
+  define("USERTOKEN", "yourtokengoeshere");           // The City API user token by default
 }
 
 // Called by the CityApi class to output a debug message.
