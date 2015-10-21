@@ -1,0 +1,46 @@
+<refentry id="{@id}">
+ 
+ <refnamediv>
+  <refname>User Guide for the TheCity PHP Library</refname>
+ </refnamediv>
+ 
+ <refsynopsisdiv>
+  <author>
+   Wes Hays
+   <authorblurb>
+    {@link http://www.weshays.com Wes Hays}
+   </authorblurb>
+   <authorblurb>
+    weshays at onthecity dot org
+   </authorblurb>
+  </author>
+ </refsynopsisdiv>
+ 
+ {@toc}
+ 
+ <refsect1 id="{@id intro}">
+  <title>Introduction</title>
+  <para>
+   This PHP library is meant to be used with The City (Software to enable communication and community in your church).
+  </para>
+  <para>
+   It is possible to pull church needs, topics, events, prayers and albums from the Plaza so that you can use them as necessary. 
+  </para>
+  <para>
+   Data pulled from The City is by default cached for 1 hour so that subsequent requests are faster.  
+  </para>
+ </refsect1>
+ 
+ <refsect1 id="{@id intro}">
+  <title>Requirements</title>
+  <para>PHP:</para>
+  <itemizedlist>
+   <listitem>PHP >= 5.3</listitem>
+  </itemizedlist>
+  <para>Libraries:</para>
+  <itemizedlist>
+   <listitem>iconv</listitem>
+  </itemizedlist>
+ </refsect1>
+ 
+</refentry>

@@ -1,0 +1,166 @@
+ul.groupslist {
+	margin: 0;
+	padding: 0;
+}
+
+ul.groupslist li.group {
+	margin: 1em;
+	list-style: none;
+	padding: 1em;
+	border: 1px solid #CACACA;
+}
+
+ul.groupslist li.group .grp-image {
+	margin: 0 2em 1em 0;
+	width: 25%;
+	max-width: 200px;
+	display: inline-block;
+	float: left;
+}
+
+ul.groupslist li.group .grp-image img {
+	margin: 0;
+	padding: .2em;
+	border: 1px solid #DEDEDE;
+	width: 100%;
+	display: block;
+}
+
+ul.groupslist li.group .grp-name {
+	margin: .25em 0;
+	padding: 0;
+	font-size: 1.2em;
+	font-weight: 600;
+}
+
+ul.groupslist li.group .grp-description, ul.groupslist li.group .grp-neighborhood, ul.groupslist li.group .grp-add-name {
+	margin: 0 0 .25em;
+	padding: 0;
+	font-size: 0.85em;
+	font-weight: 300;
+}
+
+ul.groupslist li.group h3 {
+	margin: 0 0 .25em;
+	padding: 0;
+	font-size: 1.1em;
+	font-weight: 600;
+}
+
+ul.groupslist li.group .grp-add {
+	margin: 0 0 .25em;
+	display: block;
+	padding: 0;
+	font-size: .9em;
+	font-weight: 300;
+}
+
+ul.groupslist li.group .grp-add div {
+	display: inline-block;
+}
+
+/* Google Maps*/
+#map-canvas, .hf-g-map {
+	max-width: 90%;
+	max-height: 90%;
+	width: 800px;
+	height: 450px;
+	float: none;
+	display: block;
+	margin: 1em auto;
+	text-align: center;	
+}
+
+.hitc-church-map {
+	max-width: 90%;
+	max-height: 90%;
+	width: 800px;
+	height: 450px;
+	float: none;
+	display: block;
+	margin: 1em auto;
+	text-align: center;	
+}
+
+/* Events */
+ul.eventlist {
+	display: block;
+	margin-left: .5em;
+}
+
+ul.eventlist li.event {
+	display: block;
+	padding: 1em 0 2em;
+	margin: 1em 0;
+	border-bottom: 1px solid #DEDEDE;
+	list-style: none;
+}
+
+ul.eventlist li.event .imgbox {
+	width: 20%;
+	max-width: 150px;
+	display: inline-block;
+	margin: 0 1em 1em 0;
+	float: left;
+}
+
+ul.eventlist li.event .imgbox img {
+	width: 100%; 
+}
+
+ul.eventlist li.event h3 {
+	font-size: 1.3em; 
+}
+
+ul.eventlist li.event .eve-dates {
+	vertical-align: top;
+}
+
+ul.eventlist li.event .eve-description {
+	vertical-align: top;
+}
+
+/* Force omitting inline styles in description - darn you theCity! */
+ul.eventlist li.event .eve-description .uc {
+	font-size: inherit !important;
+	font-family: inherit !important;
+	color: inherit !important;
+}
+
+ul.eventlist li.event .eve-link {
+	clear: both;
+}
+
+/* equipping classes */
+ul.eventlist li.eclass {
+	display: block;
+	padding: 1em 0 2em;
+	margin: 1em 0 2em;
+	border-bottom: 1px solid #DEDEDE;
+	list-style: none;
+}
+
+.eventlist li.eclass .blanktable td {
+	padding: .5em 1em;
+	vertical-align: middle;
+}
+
+.eventlist li.eclass .blanktable td h3 {
+	font-size: 1.3em;
+	margin-bottom: 0;
+}
+
+.eventlist li.eclass .blanktable .month, .eventlist li.eclass .blanktable .datelabel, .eventlist li.eclass .blanktable .timelabel {
+	border-right: 1px solid #DEDEDE;
+	text-align: center;
+}
+
+.eventlist li.eclass .blanktable .month {
+	background-color: #DFEBEE;
+	font-size: 1.1em;
+	font-weight: 600;
+}
+
+.eventlist li.eclass .eve-description, .eventlist li.eclass .eve-link  {
+    margin-left: 2em;
+}

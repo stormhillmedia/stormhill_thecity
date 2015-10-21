@@ -1,0 +1,2 @@
+rm -rf ../plaza-php-ghp/*
+phpdoc -o HTML:Smarty:PHP -d lib -t ../plaza-php-ghp/

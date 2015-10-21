@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="authentication.php" server="72.14.183.202:2222" local="130845649466971310" remote="130849967240000000" Dst="2" />
+<file name="autorun.php" server="72.14.183.202:2222" local="130845649467309632" remote="130849967240000000" Dst="2" />
+<file name="browser.php" server="72.14.183.202:2222" local="130845649467856220" remote="130849967240000000" Dst="2" />
+<file name="collector.php" server="72.14.183.202:2222" local="130845649468327617" remote="130849967240000000" Dst="2" />
+<file name="compatibility.php" server="72.14.183.202:2222" local="130845649468856413" remote="130849967250000000" Dst="2" />
+<file name="cookies.php" server="72.14.183.202:2222" local="130845649469643994" remote="130849967250000000" Dst="2" />
+<file name="default_reporter.php" server="72.14.183.202:2222" local="130845649469975488" remote="130849967250000000" Dst="2" />
+<file name="detached.php" server="72.14.183.202:2222" local="130845649470210477" remote="130849967250000000" Dst="2" />
+<file name="dumper.php" server="72.14.183.202:2222" local="130845649470550616" remote="130849967320000000" Dst="2" />
+<file name="eclipse.php" server="72.14.183.202:2222" local="130845649470920036" remote="130849967320000000" Dst="2" />
+<file name="encoding.php" server="72.14.183.202:2222" local="130845649471364387" remote="130849967330000000" Dst="2" />
+<file name="errors.php" server="72.14.183.202:2222" local="130845649471611991" remote="130849967330000000" Dst="2" />
+<file name="exceptions.php" server="72.14.183.202:2222" local="130845649472025482" remote="130849967330000000" Dst="2" />
+<file name="expectation.php" server="72.14.183.202:2222" local="130845649472373569" remote="130849967330000000" Dst="2" />
+<file name="form.php" server="72.14.183.202:2222" local="130845649472830764" remote="130849967360000000" Dst="2" />
+<file name="frames.php" server="72.14.183.202:2222" local="130845649473257987" remote="130849967360000000" Dst="2" />
+<file name="HELP_MY_TESTS_DONT_WORK_ANYMORE" server="72.14.183.202:2222" local="130845649465530434" remote="130849967360000000" Dst="2" />
+<file name="http.php" server="72.14.183.202:2222" local="130845649473609428" remote="130849967360000000" Dst="2" />
+<file name="invoker.php" server="72.14.183.202:2222" local="130845649474129805" remote="130849967370000000" Dst="2" />
+<file name="LICENSE" server="72.14.183.202:2222" local="130845649465941021" remote="130849967370000000" Dst="2" />
+<file name="mock_objects.php" server="72.14.183.202:2222" local="130845649475714457" remote="130849967370000000" Dst="2" />
+<file name="page.php" server="72.14.183.202:2222" local="130845649476318087" remote="130849967370000000" Dst="2" />
+<file name="php_parser.php" server="72.14.183.202:2222" local="130845649477018726" remote="130849967380000000" Dst="2" />
+<file name="README" server="72.14.183.202:2222" local="130845649466291662" remote="130849967380000000" Dst="2" />
+<file name="reflection_php4.php" server="72.14.183.202:2222" local="130845649477396227" remote="130849967380000000" Dst="2" />
+<file name="reflection_php5.php" server="72.14.183.202:2222" local="130845649477644631" remote="130849967380000000" Dst="2" />
+<file name="remote.php" server="72.14.183.202:2222" local="130845649477935126" remote="130849967380000000" Dst="2" />
+<file name="reporter.php" server="72.14.183.202:2222" local="130845649478355838" remote="130849967380000000" Dst="2" />
+<file name="scorer.php" server="72.14.183.202:2222" local="130845649478615069" remote="130849967390000000" Dst="2" />
+<file name="selector.php" server="72.14.183.202:2222" local="130845649478932270" remote="130849967390000000" Dst="2" />
+<file name="shell_tester.php" server="72.14.183.202:2222" local="130845649479187279" remote="130849967390000000" Dst="2" />
+<file name="simpletest.php" server="72.14.183.202:2222" local="130845649479526329" remote="130849967390000000" Dst="2" />
+<file name="socket.php" server="72.14.183.202:2222" local="130845649479831479" remote="130849967390000000" Dst="2" />
+<file name="tag.php" server="72.14.183.202:2222" local="130845649480082156" remote="130849967390000000" Dst="2" />
+<file name="test_case.php" server="72.14.183.202:2222" local="130845649480475993" remote="130849967520000000" Dst="2" />
+<file name="tidy_parser.php" server="72.14.183.202:2222" local="130845649480862649" remote="130849967520000000" Dst="2" />
+<file name="unit_tester.php" server="72.14.183.202:2222" local="130845649481266493" remote="130849967520000000" Dst="2" />
+<file name="url.php" server="72.14.183.202:2222" local="130845649481829638" remote="130849967520000000" Dst="2" />
+<file name="user_agent.php" server="72.14.183.202:2222" local="130845649482195855" remote="130849967520000000" Dst="2" />
+<file name="VERSION" server="72.14.183.202:2222" local="130845649466737664" remote="130849967520000000" Dst="2" />
+<file name="web_tester.php" server="72.14.183.202:2222" local="130845649482591823" remote="130849967520000000" Dst="2" />
+<file name="xml.php" server="72.14.183.202:2222" local="130845649482939023" remote="130849967520000000" Dst="2" />
+</dwsync>
